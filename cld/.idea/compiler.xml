@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sercurity-browser" />
+        <module name="cloud-common" />
+        <module name="security-core" />
+        <module name="cloud-eureka" />
+        <module name="cloud-casue" />
+        <module name="cloud-security" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cld" target="1.8" />
+      <module name="cloud-casue" target="1.8" />
+      <module name="cloud-common" target="1.8" />
+      <module name="cloud-eureka" target="1.8" />
+      <module name="cloud-security" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="security-core" target="1.8" />
+      <module name="sercurity-browser" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cld" options="-parameters" />
+      <module name="cloud-casue" options="-parameters" />
+      <module name="cloud-common" options="-parameters" />
+      <module name="cloud-eureka" options="-parameters" />
+      <module name="cloud-security" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="security-core" options="-parameters" />
+      <module name="sercurity-browser" options="-parameters" />
+    </option>
+  </component>
+</project>

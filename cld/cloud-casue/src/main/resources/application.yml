@@ -1,0 +1,16 @@
+server:
+  port: 9180
+spring:
+  application:
+    name: cloud-casue
+  profiles: dev
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.111.129:3306/test?characterEncoding=utf8&useSSL=true
+    username: root
+    password: root
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://xltc:xltc@127.0.0.1:8761/eureka/
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cld.iml" filepath="$PROJECT_DIR$/cld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-casue/cloud-casue.iml" filepath="$PROJECT_DIR$/cloud-casue/cloud-casue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-common/cloud-common.iml" filepath="$PROJECT_DIR$/cloud-common/cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" filepath="$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-security/cloud-security.iml" filepath="$PROJECT_DIR$/cloud-security/cloud-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-security/security-core/security-core.iml" filepath="$PROJECT_DIR$/cloud-security/security-core/security-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-security/sercurity-browser/sercurity-browser.iml" filepath="$PROJECT_DIR$/cloud-security/sercurity-browser/sercurity-browser.iml" />
+    </modules>
+  </component>
+</project>

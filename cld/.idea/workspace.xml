@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51937bae-8092-4946-bbc0-041debe7ed9e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cld" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/soft/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\soft\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RP1yz5k87qh68gtfFhNKaCfc5c" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-casue/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15447822" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xltc-1\Desktop\cloud-freamowrk\cld\cloud-casue\src\main\resources" />
+      <recent name="C:\Users\xltc-1\Desktop\cloud-freamowrk\cld\cloud-common\src\main\java\com\cloud\cloudcommon" />
+      <recent name="C:\Users\xltc-1\Desktop\cloud-freamowrk\cld\cloud-security\security-core\src\main\resources\resources" />
+      <recent name="C:\Users\xltc-1\Desktop\cloud-freamowrk\cld\cloud-security\sercurity-browser\src\main\resources" />
+      <recent name="C:\Users\xltc-1\Desktop\cloud-freamowrk\cld\cloud-security\security-core\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cloud.sercuritybrowser.properties.validate.base" />
+      <recent name="com.cloud.securitycore.explandAble.generator.basecode" />
+      <recent name="com.cloud.sercuritybrowser.base" />
+      <recent name="com.cloud.sercuritybrowser.properties.validate.remember" />
+      <recent name="com.cloud.sercuritybrowser.properties" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xltc-1\Desktop\cloud-freamowrk\cld\cloud-security\sercurity-browser\src\main\resources" />
+      <recent name="C:\Users\xltc-1\Desktop\cloud-freamowrk\cld\cloud-common\src\main\java\com\cloud\cloudcommon" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.security-core 1901">
+    <configuration name="CloudSecurityApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cloud.cloudsecurity.CloudSecurityApplication" />
+      <module name="cloud-security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloud.cloudsecurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenEntityMysql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cloud.cloudcommon.mysql.GenEntityMysql" />
+      <module name="cloud-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloud.cloudcommon.mysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestQ.printaaa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="security-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloud.securitycore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cloud.securitycore" />
+      <option name="MAIN_CLASS_NAME" value="com.cloud.securitycore.TestQ" />
+      <option name="METHOD_NAME" value="printaaa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.cloudcommon.CloudCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="casue 9180" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-casue" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.cloudcasue.CloudCasueApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="--spring.profiles.active" value="dev" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka 8761" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.cloudeureka.CloudEurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="--spring.profiles.active" value="dev" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka 8761" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.cloudeureka.CloudEurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="--spring.profiles.active" value="dev" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka 8762" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.cloudeureka.CloudEurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="--spring.profiles.active" value="pro" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="security 1900" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.cloudsecurity.CloudSecurityApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="--spring.profiles.active" value="dev" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="security-broswer 1902" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sercurity-browser" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.sercuritybrowser.SercurityBrowserApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="--spring.profiles.active" value="dev" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="security-core 1901" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="security-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.securitycore.SecurityCoreApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="--spring.profiles.active" value="dev" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GenEntityMysql" />
+      <item itemvalue="Application.CloudSecurityApplication" />
+      <item itemvalue="JUnit.TestQ.printaaa" />
+      <item itemvalue="Spring Boot.eureka 8761" />
+      <item itemvalue="Spring Boot.eureka 8762" />
+      <item itemvalue="Spring Boot.security 1900" />
+      <item itemvalue="Spring Boot.CloudCommonApplication" />
+      <item itemvalue="Spring Boot.security-core 1901" />
+      <item itemvalue="Spring Boot.security-broswer 1902" />
+      <item itemvalue="Spring Boot.casue 9180" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestQ.printaaa" />
+        <item itemvalue="Application.CloudSecurityApplication" />
+        <item itemvalue="Application.GenEntityMysql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51937bae-8092-4946-bbc0-041debe7ed9e" name="Default Changelist" comment="" />
+      <created>1569554175659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569554175659</updated>
+      <workItem from="1569554178102" duration="10851000" />
+      <workItem from="1569630650087" duration="24346000" />
+      <workItem from="1570152601171" duration="13861000" />
+      <workItem from="1570626481354" duration="7536000" />
+      <workItem from="1570666928279" duration="51000" />
+      <workItem from="1570757772310" duration="10556000" />
+      <workItem from="1571102327404" duration="23450000" />
+      <workItem from="1571471001559" duration="8340000" />
+      <workItem from="1571618846709" duration="1198000" />
+      <workItem from="1572486762732" duration="453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-security/security-core/src/main/java/com/cloud/securitycore/controller/ValidateImageCodeController.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-security/security-core/src/main/java/com/cloud/securitycore/filter/DefaultSecurityValidateCodeFilter.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

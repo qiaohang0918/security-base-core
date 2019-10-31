@@ -1,0 +1,37 @@
+server:
+  port: 1901
+spring:
+  application:
+    name: security-core
+  profiles: dev
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.111.129:3306/test?characterEncoding=utf8&useSSL=true
+    username: root
+    password: root
+  security:
+    user:
+      name: xltc
+      password: xltc
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://${spring.security.user.name}:${spring.security.user.password}@127.0.0.1:8761/eureka/
+qiaohang:
+  md5:
+    key: 2726
+  security:
+    browser:
+      loginPage: /userDefindPage.html
+      returnType: HTML
+      validate:
+        image:
+          width: 150
+          height: 35
+          codeLength: 5
+          charSet: 123456789
+          userAbleTime: 60
+          validatePath: /authentication/loginProcessing,/needValidateCode
+        base:
+          userAbleTime: 60
+      tokenExpireSecend: 60

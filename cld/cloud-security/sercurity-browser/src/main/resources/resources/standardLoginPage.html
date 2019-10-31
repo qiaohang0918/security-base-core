@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>标准登录页(security-browser)</title>
+</head>
+<body>
+<h2>标准登录页(security-browser)</h2>
+    <form action="/authentication/loginProcessing" method="post">
+        <table>
+            <tr>
+                <td>username</td>
+                <td><input type="text" name="username"></td>
+            </tr>
+            <tr>
+                <td>password</td>
+                <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <td>validateCode</td>
+                <td><input type="text" name="validateCode"><img src="/code/generator/base"></td>
+            </tr>
+            <tr>
+                <td>remember-me</td>
+                <td><input type="checkbox" value="true" name="remember-me"></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" value="submit"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

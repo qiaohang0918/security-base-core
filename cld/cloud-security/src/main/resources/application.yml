@@ -1,0 +1,19 @@
+server:
+  port: 1900
+spring:
+  application:
+    name: cloud-security
+  profiles: dev
+  security:
+    user:
+      name: xltc
+      password: xltc
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.111.129:3306/test?characterEncoding=utf8&useSSL=true
+    username: root
+    password: root
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://${spring.security.user.name}:${spring.security.user.password}@127.0.0.1:8761/eureka/
